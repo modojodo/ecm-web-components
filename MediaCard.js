@@ -14,13 +14,12 @@ template.innerHTML = `
         
         .card-top {
             display: flex;
-            justify-content: space-between;
         }
         
         .description {
             margin-top: 20px;
             display: flex;
-            justify-content: flex-start;
+            text-align: start;
         }
         
         .img {
